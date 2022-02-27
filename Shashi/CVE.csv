@@ -1,0 +1,1201 @@
+Vul_id,Summary,CVSS_sev
+CVE-2022-25096,"Home Owners Collection Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /members/view_member.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25094,"Home Owners Collection Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the parameter ""cover"" in SystemSettings.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-45977,"JetBrains IntelliJ IDEA 2021.3.1 Preview, IntelliJ IDEA 2021.3.1 RC, PyCharm Professional 2021.3.1 RC, GoLand 2021.3.1, PhpStorm 2021.3.1 Preview, PhpStorm 2021.3.1 RC, RubyMine 2021.3.1 Preview, RubyMine 2021.3.1 RC, CLion 2021.3.1, WebStorm 2021.3.1 Preview, and WebStorm 2021.3.1 RC (used as Remote Development backend IDEs) bind to the 0.0.0.0 IP address. The fixed versions are: IntelliJ IDEA 2021.3.1, PyCharm Professional 2021.3.1, GoLand 2021.3.2, PhpStorm 2021.3.1 (213.6461.83), RubyMine 2021.3.1, CLion 2021.3.2, and WebStorm 2021.3.1. Published:
+February 25, 2022; 10:15:09 AM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-23701,"A potential remote host header injection security vulnerability has been identified in HPE Integrated Lights-Out 4 (iLO 4) firmware version(s): Prior to 2.60. This vulnerability could be remotely exploited to allow an attacker to supply invalid input to the iLO 4 webserver, causing it to respond with a redirect to an attacker-controlled domain. HPE has provided a firmware update to resolve this vulnerability in HPE Integrated Lights-Out 4 (iLO 4). Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29220,"Multiple buffer overflow security vulnerabilities have been identified in HPE iLO Amplifier Pack version(s): Prior to 2.12. These vulnerabilities could be exploited by a highly privileged user to remotely execute code that could lead to a loss of confidentiality, integrity, and availability. HPE has provided a software update to resolve this vulnerability in HPE iLO Amplifier Pack. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29217,"A remote URL redirection vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29216,"A remote cross-site scripting vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44665,"A Directory Traversal vulnerability exists in the Xerte Project Xerte through 3.10.3 when downloading a project file via download.php. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44664,"An Authenticated Remote Code Exection (RCE) vulnerability exists in Xerte through 3.9 in website_code/php/import/fileupload.php by uploading a maliciously crafted PHP file though the project interface disguised as a language file to bypasses the upload filters. Attackers can manipulate the files destination by abusing path traversal in the 'mediapath' variable. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25307,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the platform parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25306,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the browser parameter found in the ~/includes/class-wp-statistics-visitor.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25305,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the IP parameter found in the ~/includes/class-wp-statistics-ip.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25149,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the IP parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25148,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_id parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25004,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/manage_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25003,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/view_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-24232,"A local file inclusion in Hospital Patient Record Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0683,"The Essential Addons for Elementor Lite WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the settings parameter found in the ~/includes/Traits/Helper.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 5.0.8. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0653,"The Profile Builder – User Profile & User Registration Forms WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the site_url parameter found in the ~/assets/misc/fallback-page.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 3.6.1. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0651,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_type parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25096,"Home Owners Collection Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /members/view_member.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25094,"Home Owners Collection Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the parameter ""cover"" in SystemSettings.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-45977,"JetBrains IntelliJ IDEA 2021.3.1 Preview, IntelliJ IDEA 2021.3.1 RC, PyCharm Professional 2021.3.1 RC, GoLand 2021.3.1, PhpStorm 2021.3.1 Preview, PhpStorm 2021.3.1 RC, RubyMine 2021.3.1 Preview, RubyMine 2021.3.1 RC, CLion 2021.3.1, WebStorm 2021.3.1 Preview, and WebStorm 2021.3.1 RC (used as Remote Development backend IDEs) bind to the 0.0.0.0 IP address. The fixed versions are: IntelliJ IDEA 2021.3.1, PyCharm Professional 2021.3.1, GoLand 2021.3.2, PhpStorm 2021.3.1 (213.6461.83), RubyMine 2021.3.1, CLion 2021.3.2, and WebStorm 2021.3.1. Published:
+February 25, 2022; 10:15:09 AM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-23701,"A potential remote host header injection security vulnerability has been identified in HPE Integrated Lights-Out 4 (iLO 4) firmware version(s): Prior to 2.60. This vulnerability could be remotely exploited to allow an attacker to supply invalid input to the iLO 4 webserver, causing it to respond with a redirect to an attacker-controlled domain. HPE has provided a firmware update to resolve this vulnerability in HPE Integrated Lights-Out 4 (iLO 4). Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29220,"Multiple buffer overflow security vulnerabilities have been identified in HPE iLO Amplifier Pack version(s): Prior to 2.12. These vulnerabilities could be exploited by a highly privileged user to remotely execute code that could lead to a loss of confidentiality, integrity, and availability. HPE has provided a software update to resolve this vulnerability in HPE iLO Amplifier Pack. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29217,"A remote URL redirection vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29216,"A remote cross-site scripting vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44665,"A Directory Traversal vulnerability exists in the Xerte Project Xerte through 3.10.3 when downloading a project file via download.php. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44664,"An Authenticated Remote Code Exection (RCE) vulnerability exists in Xerte through 3.9 in website_code/php/import/fileupload.php by uploading a maliciously crafted PHP file though the project interface disguised as a language file to bypasses the upload filters. Attackers can manipulate the files destination by abusing path traversal in the 'mediapath' variable. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25307,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the platform parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25306,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the browser parameter found in the ~/includes/class-wp-statistics-visitor.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25305,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the IP parameter found in the ~/includes/class-wp-statistics-ip.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25149,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the IP parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25148,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_id parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25004,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/manage_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25003,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/view_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-24232,"A local file inclusion in Hospital Patient Record Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0683,"The Essential Addons for Elementor Lite WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the settings parameter found in the ~/includes/Traits/Helper.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 5.0.8. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0653,"The Profile Builder – User Profile & User Registration Forms WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the site_url parameter found in the ~/assets/misc/fallback-page.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 3.6.1. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0651,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_type parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25096,"Home Owners Collection Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /members/view_member.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25094,"Home Owners Collection Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the parameter ""cover"" in SystemSettings.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-45977,"JetBrains IntelliJ IDEA 2021.3.1 Preview, IntelliJ IDEA 2021.3.1 RC, PyCharm Professional 2021.3.1 RC, GoLand 2021.3.1, PhpStorm 2021.3.1 Preview, PhpStorm 2021.3.1 RC, RubyMine 2021.3.1 Preview, RubyMine 2021.3.1 RC, CLion 2021.3.1, WebStorm 2021.3.1 Preview, and WebStorm 2021.3.1 RC (used as Remote Development backend IDEs) bind to the 0.0.0.0 IP address. The fixed versions are: IntelliJ IDEA 2021.3.1, PyCharm Professional 2021.3.1, GoLand 2021.3.2, PhpStorm 2021.3.1 (213.6461.83), RubyMine 2021.3.1, CLion 2021.3.2, and WebStorm 2021.3.1. Published:
+February 25, 2022; 10:15:09 AM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-23701,"A potential remote host header injection security vulnerability has been identified in HPE Integrated Lights-Out 4 (iLO 4) firmware version(s): Prior to 2.60. This vulnerability could be remotely exploited to allow an attacker to supply invalid input to the iLO 4 webserver, causing it to respond with a redirect to an attacker-controlled domain. HPE has provided a firmware update to resolve this vulnerability in HPE Integrated Lights-Out 4 (iLO 4). Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29220,"Multiple buffer overflow security vulnerabilities have been identified in HPE iLO Amplifier Pack version(s): Prior to 2.12. These vulnerabilities could be exploited by a highly privileged user to remotely execute code that could lead to a loss of confidentiality, integrity, and availability. HPE has provided a software update to resolve this vulnerability in HPE iLO Amplifier Pack. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29217,"A remote URL redirection vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29216,"A remote cross-site scripting vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44665,"A Directory Traversal vulnerability exists in the Xerte Project Xerte through 3.10.3 when downloading a project file via download.php. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44664,"An Authenticated Remote Code Exection (RCE) vulnerability exists in Xerte through 3.9 in website_code/php/import/fileupload.php by uploading a maliciously crafted PHP file though the project interface disguised as a language file to bypasses the upload filters. Attackers can manipulate the files destination by abusing path traversal in the 'mediapath' variable. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25307,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the platform parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25306,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the browser parameter found in the ~/includes/class-wp-statistics-visitor.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25305,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the IP parameter found in the ~/includes/class-wp-statistics-ip.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25149,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the IP parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25148,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_id parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25004,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/manage_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25003,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/view_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-24232,"A local file inclusion in Hospital Patient Record Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0683,"The Essential Addons for Elementor Lite WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the settings parameter found in the ~/includes/Traits/Helper.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 5.0.8. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0653,"The Profile Builder – User Profile & User Registration Forms WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the site_url parameter found in the ~/assets/misc/fallback-page.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 3.6.1. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0651,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_type parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25096,"Home Owners Collection Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /members/view_member.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25094,"Home Owners Collection Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the parameter ""cover"" in SystemSettings.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-45977,"JetBrains IntelliJ IDEA 2021.3.1 Preview, IntelliJ IDEA 2021.3.1 RC, PyCharm Professional 2021.3.1 RC, GoLand 2021.3.1, PhpStorm 2021.3.1 Preview, PhpStorm 2021.3.1 RC, RubyMine 2021.3.1 Preview, RubyMine 2021.3.1 RC, CLion 2021.3.1, WebStorm 2021.3.1 Preview, and WebStorm 2021.3.1 RC (used as Remote Development backend IDEs) bind to the 0.0.0.0 IP address. The fixed versions are: IntelliJ IDEA 2021.3.1, PyCharm Professional 2021.3.1, GoLand 2021.3.2, PhpStorm 2021.3.1 (213.6461.83), RubyMine 2021.3.1, CLion 2021.3.2, and WebStorm 2021.3.1. Published:
+February 25, 2022; 10:15:09 AM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-23701,"A potential remote host header injection security vulnerability has been identified in HPE Integrated Lights-Out 4 (iLO 4) firmware version(s): Prior to 2.60. This vulnerability could be remotely exploited to allow an attacker to supply invalid input to the iLO 4 webserver, causing it to respond with a redirect to an attacker-controlled domain. HPE has provided a firmware update to resolve this vulnerability in HPE Integrated Lights-Out 4 (iLO 4). Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29220,"Multiple buffer overflow security vulnerabilities have been identified in HPE iLO Amplifier Pack version(s): Prior to 2.12. These vulnerabilities could be exploited by a highly privileged user to remotely execute code that could lead to a loss of confidentiality, integrity, and availability. HPE has provided a software update to resolve this vulnerability in HPE iLO Amplifier Pack. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29217,"A remote URL redirection vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29216,"A remote cross-site scripting vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44665,"A Directory Traversal vulnerability exists in the Xerte Project Xerte through 3.10.3 when downloading a project file via download.php. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44664,"An Authenticated Remote Code Exection (RCE) vulnerability exists in Xerte through 3.9 in website_code/php/import/fileupload.php by uploading a maliciously crafted PHP file though the project interface disguised as a language file to bypasses the upload filters. Attackers can manipulate the files destination by abusing path traversal in the 'mediapath' variable. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25307,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the platform parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25306,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the browser parameter found in the ~/includes/class-wp-statistics-visitor.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25305,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the IP parameter found in the ~/includes/class-wp-statistics-ip.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25149,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the IP parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25148,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_id parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25004,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/manage_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25003,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/view_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-24232,"A local file inclusion in Hospital Patient Record Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0683,"The Essential Addons for Elementor Lite WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the settings parameter found in the ~/includes/Traits/Helper.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 5.0.8. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0653,"The Profile Builder – User Profile & User Registration Forms WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the site_url parameter found in the ~/assets/misc/fallback-page.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 3.6.1. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0651,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_type parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25096,"Home Owners Collection Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /members/view_member.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25094,"Home Owners Collection Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the parameter ""cover"" in SystemSettings.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-45977,"JetBrains IntelliJ IDEA 2021.3.1 Preview, IntelliJ IDEA 2021.3.1 RC, PyCharm Professional 2021.3.1 RC, GoLand 2021.3.1, PhpStorm 2021.3.1 Preview, PhpStorm 2021.3.1 RC, RubyMine 2021.3.1 Preview, RubyMine 2021.3.1 RC, CLion 2021.3.1, WebStorm 2021.3.1 Preview, and WebStorm 2021.3.1 RC (used as Remote Development backend IDEs) bind to the 0.0.0.0 IP address. The fixed versions are: IntelliJ IDEA 2021.3.1, PyCharm Professional 2021.3.1, GoLand 2021.3.2, PhpStorm 2021.3.1 (213.6461.83), RubyMine 2021.3.1, CLion 2021.3.2, and WebStorm 2021.3.1. Published:
+February 25, 2022; 10:15:09 AM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-23701,"A potential remote host header injection security vulnerability has been identified in HPE Integrated Lights-Out 4 (iLO 4) firmware version(s): Prior to 2.60. This vulnerability could be remotely exploited to allow an attacker to supply invalid input to the iLO 4 webserver, causing it to respond with a redirect to an attacker-controlled domain. HPE has provided a firmware update to resolve this vulnerability in HPE Integrated Lights-Out 4 (iLO 4). Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29220,"Multiple buffer overflow security vulnerabilities have been identified in HPE iLO Amplifier Pack version(s): Prior to 2.12. These vulnerabilities could be exploited by a highly privileged user to remotely execute code that could lead to a loss of confidentiality, integrity, and availability. HPE has provided a software update to resolve this vulnerability in HPE iLO Amplifier Pack. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29217,"A remote URL redirection vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29216,"A remote cross-site scripting vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44665,"A Directory Traversal vulnerability exists in the Xerte Project Xerte through 3.10.3 when downloading a project file via download.php. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44664,"An Authenticated Remote Code Exection (RCE) vulnerability exists in Xerte through 3.9 in website_code/php/import/fileupload.php by uploading a maliciously crafted PHP file though the project interface disguised as a language file to bypasses the upload filters. Attackers can manipulate the files destination by abusing path traversal in the 'mediapath' variable. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25307,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the platform parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25306,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the browser parameter found in the ~/includes/class-wp-statistics-visitor.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25305,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the IP parameter found in the ~/includes/class-wp-statistics-ip.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25149,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the IP parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25148,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_id parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25004,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/manage_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25003,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/view_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-24232,"A local file inclusion in Hospital Patient Record Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0683,"The Essential Addons for Elementor Lite WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the settings parameter found in the ~/includes/Traits/Helper.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 5.0.8. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0653,"The Profile Builder – User Profile & User Registration Forms WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the site_url parameter found in the ~/assets/misc/fallback-page.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 3.6.1. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0651,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_type parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25096,"Home Owners Collection Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /members/view_member.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25094,"Home Owners Collection Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the parameter ""cover"" in SystemSettings.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-45977,"JetBrains IntelliJ IDEA 2021.3.1 Preview, IntelliJ IDEA 2021.3.1 RC, PyCharm Professional 2021.3.1 RC, GoLand 2021.3.1, PhpStorm 2021.3.1 Preview, PhpStorm 2021.3.1 RC, RubyMine 2021.3.1 Preview, RubyMine 2021.3.1 RC, CLion 2021.3.1, WebStorm 2021.3.1 Preview, and WebStorm 2021.3.1 RC (used as Remote Development backend IDEs) bind to the 0.0.0.0 IP address. The fixed versions are: IntelliJ IDEA 2021.3.1, PyCharm Professional 2021.3.1, GoLand 2021.3.2, PhpStorm 2021.3.1 (213.6461.83), RubyMine 2021.3.1, CLion 2021.3.2, and WebStorm 2021.3.1. Published:
+February 25, 2022; 10:15:09 AM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-23701,"A potential remote host header injection security vulnerability has been identified in HPE Integrated Lights-Out 4 (iLO 4) firmware version(s): Prior to 2.60. This vulnerability could be remotely exploited to allow an attacker to supply invalid input to the iLO 4 webserver, causing it to respond with a redirect to an attacker-controlled domain. HPE has provided a firmware update to resolve this vulnerability in HPE Integrated Lights-Out 4 (iLO 4). Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29220,"Multiple buffer overflow security vulnerabilities have been identified in HPE iLO Amplifier Pack version(s): Prior to 2.12. These vulnerabilities could be exploited by a highly privileged user to remotely execute code that could lead to a loss of confidentiality, integrity, and availability. HPE has provided a software update to resolve this vulnerability in HPE iLO Amplifier Pack. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29217,"A remote URL redirection vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29216,"A remote cross-site scripting vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44665,"A Directory Traversal vulnerability exists in the Xerte Project Xerte through 3.10.3 when downloading a project file via download.php. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44664,"An Authenticated Remote Code Exection (RCE) vulnerability exists in Xerte through 3.9 in website_code/php/import/fileupload.php by uploading a maliciously crafted PHP file though the project interface disguised as a language file to bypasses the upload filters. Attackers can manipulate the files destination by abusing path traversal in the 'mediapath' variable. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25307,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the platform parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25306,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the browser parameter found in the ~/includes/class-wp-statistics-visitor.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25305,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the IP parameter found in the ~/includes/class-wp-statistics-ip.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25149,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the IP parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25148,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_id parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25004,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/manage_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25003,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/view_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-24232,"A local file inclusion in Hospital Patient Record Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0683,"The Essential Addons for Elementor Lite WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the settings parameter found in the ~/includes/Traits/Helper.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 5.0.8. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0653,"The Profile Builder – User Profile & User Registration Forms WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the site_url parameter found in the ~/assets/misc/fallback-page.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 3.6.1. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0651,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_type parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25096,"Home Owners Collection Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /members/view_member.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25094,"Home Owners Collection Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the parameter ""cover"" in SystemSettings.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-45977,"JetBrains IntelliJ IDEA 2021.3.1 Preview, IntelliJ IDEA 2021.3.1 RC, PyCharm Professional 2021.3.1 RC, GoLand 2021.3.1, PhpStorm 2021.3.1 Preview, PhpStorm 2021.3.1 RC, RubyMine 2021.3.1 Preview, RubyMine 2021.3.1 RC, CLion 2021.3.1, WebStorm 2021.3.1 Preview, and WebStorm 2021.3.1 RC (used as Remote Development backend IDEs) bind to the 0.0.0.0 IP address. The fixed versions are: IntelliJ IDEA 2021.3.1, PyCharm Professional 2021.3.1, GoLand 2021.3.2, PhpStorm 2021.3.1 (213.6461.83), RubyMine 2021.3.1, CLion 2021.3.2, and WebStorm 2021.3.1. Published:
+February 25, 2022; 10:15:09 AM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-23701,"A potential remote host header injection security vulnerability has been identified in HPE Integrated Lights-Out 4 (iLO 4) firmware version(s): Prior to 2.60. This vulnerability could be remotely exploited to allow an attacker to supply invalid input to the iLO 4 webserver, causing it to respond with a redirect to an attacker-controlled domain. HPE has provided a firmware update to resolve this vulnerability in HPE Integrated Lights-Out 4 (iLO 4). Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29220,"Multiple buffer overflow security vulnerabilities have been identified in HPE iLO Amplifier Pack version(s): Prior to 2.12. These vulnerabilities could be exploited by a highly privileged user to remotely execute code that could lead to a loss of confidentiality, integrity, and availability. HPE has provided a software update to resolve this vulnerability in HPE iLO Amplifier Pack. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29217,"A remote URL redirection vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29216,"A remote cross-site scripting vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44665,"A Directory Traversal vulnerability exists in the Xerte Project Xerte through 3.10.3 when downloading a project file via download.php. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44664,"An Authenticated Remote Code Exection (RCE) vulnerability exists in Xerte through 3.9 in website_code/php/import/fileupload.php by uploading a maliciously crafted PHP file though the project interface disguised as a language file to bypasses the upload filters. Attackers can manipulate the files destination by abusing path traversal in the 'mediapath' variable. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25307,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the platform parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25306,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the browser parameter found in the ~/includes/class-wp-statistics-visitor.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25305,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the IP parameter found in the ~/includes/class-wp-statistics-ip.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25149,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the IP parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25148,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_id parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25004,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/manage_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25003,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/view_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-24232,"A local file inclusion in Hospital Patient Record Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0683,"The Essential Addons for Elementor Lite WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the settings parameter found in the ~/includes/Traits/Helper.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 5.0.8. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0653,"The Profile Builder – User Profile & User Registration Forms WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the site_url parameter found in the ~/assets/misc/fallback-page.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 3.6.1. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0651,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_type parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25096,"Home Owners Collection Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /members/view_member.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25094,"Home Owners Collection Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the parameter ""cover"" in SystemSettings.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-45977,"JetBrains IntelliJ IDEA 2021.3.1 Preview, IntelliJ IDEA 2021.3.1 RC, PyCharm Professional 2021.3.1 RC, GoLand 2021.3.1, PhpStorm 2021.3.1 Preview, PhpStorm 2021.3.1 RC, RubyMine 2021.3.1 Preview, RubyMine 2021.3.1 RC, CLion 2021.3.1, WebStorm 2021.3.1 Preview, and WebStorm 2021.3.1 RC (used as Remote Development backend IDEs) bind to the 0.0.0.0 IP address. The fixed versions are: IntelliJ IDEA 2021.3.1, PyCharm Professional 2021.3.1, GoLand 2021.3.2, PhpStorm 2021.3.1 (213.6461.83), RubyMine 2021.3.1, CLion 2021.3.2, and WebStorm 2021.3.1. Published:
+February 25, 2022; 10:15:09 AM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-23701,"A potential remote host header injection security vulnerability has been identified in HPE Integrated Lights-Out 4 (iLO 4) firmware version(s): Prior to 2.60. This vulnerability could be remotely exploited to allow an attacker to supply invalid input to the iLO 4 webserver, causing it to respond with a redirect to an attacker-controlled domain. HPE has provided a firmware update to resolve this vulnerability in HPE Integrated Lights-Out 4 (iLO 4). Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29220,"Multiple buffer overflow security vulnerabilities have been identified in HPE iLO Amplifier Pack version(s): Prior to 2.12. These vulnerabilities could be exploited by a highly privileged user to remotely execute code that could lead to a loss of confidentiality, integrity, and availability. HPE has provided a software update to resolve this vulnerability in HPE iLO Amplifier Pack. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29217,"A remote URL redirection vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29216,"A remote cross-site scripting vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44665,"A Directory Traversal vulnerability exists in the Xerte Project Xerte through 3.10.3 when downloading a project file via download.php. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44664,"An Authenticated Remote Code Exection (RCE) vulnerability exists in Xerte through 3.9 in website_code/php/import/fileupload.php by uploading a maliciously crafted PHP file though the project interface disguised as a language file to bypasses the upload filters. Attackers can manipulate the files destination by abusing path traversal in the 'mediapath' variable. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25307,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the platform parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25306,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the browser parameter found in the ~/includes/class-wp-statistics-visitor.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25305,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the IP parameter found in the ~/includes/class-wp-statistics-ip.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25149,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the IP parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25148,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_id parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25004,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/manage_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25003,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/view_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-24232,"A local file inclusion in Hospital Patient Record Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0683,"The Essential Addons for Elementor Lite WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the settings parameter found in the ~/includes/Traits/Helper.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 5.0.8. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0653,"The Profile Builder – User Profile & User Registration Forms WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the site_url parameter found in the ~/assets/misc/fallback-page.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 3.6.1. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0651,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_type parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25096,"Home Owners Collection Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /members/view_member.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25094,"Home Owners Collection Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the parameter ""cover"" in SystemSettings.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-45977,"JetBrains IntelliJ IDEA 2021.3.1 Preview, IntelliJ IDEA 2021.3.1 RC, PyCharm Professional 2021.3.1 RC, GoLand 2021.3.1, PhpStorm 2021.3.1 Preview, PhpStorm 2021.3.1 RC, RubyMine 2021.3.1 Preview, RubyMine 2021.3.1 RC, CLion 2021.3.1, WebStorm 2021.3.1 Preview, and WebStorm 2021.3.1 RC (used as Remote Development backend IDEs) bind to the 0.0.0.0 IP address. The fixed versions are: IntelliJ IDEA 2021.3.1, PyCharm Professional 2021.3.1, GoLand 2021.3.2, PhpStorm 2021.3.1 (213.6461.83), RubyMine 2021.3.1, CLion 2021.3.2, and WebStorm 2021.3.1. Published:
+February 25, 2022; 10:15:09 AM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-23701,"A potential remote host header injection security vulnerability has been identified in HPE Integrated Lights-Out 4 (iLO 4) firmware version(s): Prior to 2.60. This vulnerability could be remotely exploited to allow an attacker to supply invalid input to the iLO 4 webserver, causing it to respond with a redirect to an attacker-controlled domain. HPE has provided a firmware update to resolve this vulnerability in HPE Integrated Lights-Out 4 (iLO 4). Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29220,"Multiple buffer overflow security vulnerabilities have been identified in HPE iLO Amplifier Pack version(s): Prior to 2.12. These vulnerabilities could be exploited by a highly privileged user to remotely execute code that could lead to a loss of confidentiality, integrity, and availability. HPE has provided a software update to resolve this vulnerability in HPE iLO Amplifier Pack. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29217,"A remote URL redirection vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29216,"A remote cross-site scripting vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44665,"A Directory Traversal vulnerability exists in the Xerte Project Xerte through 3.10.3 when downloading a project file via download.php. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44664,"An Authenticated Remote Code Exection (RCE) vulnerability exists in Xerte through 3.9 in website_code/php/import/fileupload.php by uploading a maliciously crafted PHP file though the project interface disguised as a language file to bypasses the upload filters. Attackers can manipulate the files destination by abusing path traversal in the 'mediapath' variable. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25307,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the platform parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25306,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the browser parameter found in the ~/includes/class-wp-statistics-visitor.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25305,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the IP parameter found in the ~/includes/class-wp-statistics-ip.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25149,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the IP parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25148,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_id parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25004,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/manage_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25003,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/view_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-24232,"A local file inclusion in Hospital Patient Record Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0683,"The Essential Addons for Elementor Lite WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the settings parameter found in the ~/includes/Traits/Helper.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 5.0.8. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0653,"The Profile Builder – User Profile & User Registration Forms WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the site_url parameter found in the ~/assets/misc/fallback-page.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 3.6.1. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0651,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_type parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25096,"Home Owners Collection Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /members/view_member.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25094,"Home Owners Collection Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the parameter ""cover"" in SystemSettings.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-45977,"JetBrains IntelliJ IDEA 2021.3.1 Preview, IntelliJ IDEA 2021.3.1 RC, PyCharm Professional 2021.3.1 RC, GoLand 2021.3.1, PhpStorm 2021.3.1 Preview, PhpStorm 2021.3.1 RC, RubyMine 2021.3.1 Preview, RubyMine 2021.3.1 RC, CLion 2021.3.1, WebStorm 2021.3.1 Preview, and WebStorm 2021.3.1 RC (used as Remote Development backend IDEs) bind to the 0.0.0.0 IP address. The fixed versions are: IntelliJ IDEA 2021.3.1, PyCharm Professional 2021.3.1, GoLand 2021.3.2, PhpStorm 2021.3.1 (213.6461.83), RubyMine 2021.3.1, CLion 2021.3.2, and WebStorm 2021.3.1. Published:
+February 25, 2022; 10:15:09 AM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-23701,"A potential remote host header injection security vulnerability has been identified in HPE Integrated Lights-Out 4 (iLO 4) firmware version(s): Prior to 2.60. This vulnerability could be remotely exploited to allow an attacker to supply invalid input to the iLO 4 webserver, causing it to respond with a redirect to an attacker-controlled domain. HPE has provided a firmware update to resolve this vulnerability in HPE Integrated Lights-Out 4 (iLO 4). Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29220,"Multiple buffer overflow security vulnerabilities have been identified in HPE iLO Amplifier Pack version(s): Prior to 2.12. These vulnerabilities could be exploited by a highly privileged user to remotely execute code that could lead to a loss of confidentiality, integrity, and availability. HPE has provided a software update to resolve this vulnerability in HPE iLO Amplifier Pack. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29217,"A remote URL redirection vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29216,"A remote cross-site scripting vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44665,"A Directory Traversal vulnerability exists in the Xerte Project Xerte through 3.10.3 when downloading a project file via download.php. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44664,"An Authenticated Remote Code Exection (RCE) vulnerability exists in Xerte through 3.9 in website_code/php/import/fileupload.php by uploading a maliciously crafted PHP file though the project interface disguised as a language file to bypasses the upload filters. Attackers can manipulate the files destination by abusing path traversal in the 'mediapath' variable. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25307,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the platform parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25306,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the browser parameter found in the ~/includes/class-wp-statistics-visitor.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25305,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the IP parameter found in the ~/includes/class-wp-statistics-ip.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25149,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the IP parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25148,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_id parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25004,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/manage_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25003,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/view_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-24232,"A local file inclusion in Hospital Patient Record Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0683,"The Essential Addons for Elementor Lite WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the settings parameter found in the ~/includes/Traits/Helper.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 5.0.8. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0653,"The Profile Builder – User Profile & User Registration Forms WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the site_url parameter found in the ~/assets/misc/fallback-page.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 3.6.1. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0651,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_type parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25096,"Home Owners Collection Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /members/view_member.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25094,"Home Owners Collection Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the parameter ""cover"" in SystemSettings.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-45977,"JetBrains IntelliJ IDEA 2021.3.1 Preview, IntelliJ IDEA 2021.3.1 RC, PyCharm Professional 2021.3.1 RC, GoLand 2021.3.1, PhpStorm 2021.3.1 Preview, PhpStorm 2021.3.1 RC, RubyMine 2021.3.1 Preview, RubyMine 2021.3.1 RC, CLion 2021.3.1, WebStorm 2021.3.1 Preview, and WebStorm 2021.3.1 RC (used as Remote Development backend IDEs) bind to the 0.0.0.0 IP address. The fixed versions are: IntelliJ IDEA 2021.3.1, PyCharm Professional 2021.3.1, GoLand 2021.3.2, PhpStorm 2021.3.1 (213.6461.83), RubyMine 2021.3.1, CLion 2021.3.2, and WebStorm 2021.3.1. Published:
+February 25, 2022; 10:15:09 AM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-23701,"A potential remote host header injection security vulnerability has been identified in HPE Integrated Lights-Out 4 (iLO 4) firmware version(s): Prior to 2.60. This vulnerability could be remotely exploited to allow an attacker to supply invalid input to the iLO 4 webserver, causing it to respond with a redirect to an attacker-controlled domain. HPE has provided a firmware update to resolve this vulnerability in HPE Integrated Lights-Out 4 (iLO 4). Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29220,"Multiple buffer overflow security vulnerabilities have been identified in HPE iLO Amplifier Pack version(s): Prior to 2.12. These vulnerabilities could be exploited by a highly privileged user to remotely execute code that could lead to a loss of confidentiality, integrity, and availability. HPE has provided a software update to resolve this vulnerability in HPE iLO Amplifier Pack. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29217,"A remote URL redirection vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29216,"A remote cross-site scripting vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44665,"A Directory Traversal vulnerability exists in the Xerte Project Xerte through 3.10.3 when downloading a project file via download.php. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44664,"An Authenticated Remote Code Exection (RCE) vulnerability exists in Xerte through 3.9 in website_code/php/import/fileupload.php by uploading a maliciously crafted PHP file though the project interface disguised as a language file to bypasses the upload filters. Attackers can manipulate the files destination by abusing path traversal in the 'mediapath' variable. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25307,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the platform parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25306,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the browser parameter found in the ~/includes/class-wp-statistics-visitor.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25305,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the IP parameter found in the ~/includes/class-wp-statistics-ip.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25149,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the IP parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25148,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_id parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25004,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/manage_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25003,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/view_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-24232,"A local file inclusion in Hospital Patient Record Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0683,"The Essential Addons for Elementor Lite WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the settings parameter found in the ~/includes/Traits/Helper.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 5.0.8. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0653,"The Profile Builder – User Profile & User Registration Forms WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the site_url parameter found in the ~/assets/misc/fallback-page.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 3.6.1. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0651,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_type parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25096,"Home Owners Collection Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /members/view_member.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25094,"Home Owners Collection Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the parameter ""cover"" in SystemSettings.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-45977,"JetBrains IntelliJ IDEA 2021.3.1 Preview, IntelliJ IDEA 2021.3.1 RC, PyCharm Professional 2021.3.1 RC, GoLand 2021.3.1, PhpStorm 2021.3.1 Preview, PhpStorm 2021.3.1 RC, RubyMine 2021.3.1 Preview, RubyMine 2021.3.1 RC, CLion 2021.3.1, WebStorm 2021.3.1 Preview, and WebStorm 2021.3.1 RC (used as Remote Development backend IDEs) bind to the 0.0.0.0 IP address. The fixed versions are: IntelliJ IDEA 2021.3.1, PyCharm Professional 2021.3.1, GoLand 2021.3.2, PhpStorm 2021.3.1 (213.6461.83), RubyMine 2021.3.1, CLion 2021.3.2, and WebStorm 2021.3.1. Published:
+February 25, 2022; 10:15:09 AM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-23701,"A potential remote host header injection security vulnerability has been identified in HPE Integrated Lights-Out 4 (iLO 4) firmware version(s): Prior to 2.60. This vulnerability could be remotely exploited to allow an attacker to supply invalid input to the iLO 4 webserver, causing it to respond with a redirect to an attacker-controlled domain. HPE has provided a firmware update to resolve this vulnerability in HPE Integrated Lights-Out 4 (iLO 4). Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29220,"Multiple buffer overflow security vulnerabilities have been identified in HPE iLO Amplifier Pack version(s): Prior to 2.12. These vulnerabilities could be exploited by a highly privileged user to remotely execute code that could lead to a loss of confidentiality, integrity, and availability. HPE has provided a software update to resolve this vulnerability in HPE iLO Amplifier Pack. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29217,"A remote URL redirection vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29216,"A remote cross-site scripting vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44665,"A Directory Traversal vulnerability exists in the Xerte Project Xerte through 3.10.3 when downloading a project file via download.php. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44664,"An Authenticated Remote Code Exection (RCE) vulnerability exists in Xerte through 3.9 in website_code/php/import/fileupload.php by uploading a maliciously crafted PHP file though the project interface disguised as a language file to bypasses the upload filters. Attackers can manipulate the files destination by abusing path traversal in the 'mediapath' variable. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25307,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the platform parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25306,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the browser parameter found in the ~/includes/class-wp-statistics-visitor.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25305,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the IP parameter found in the ~/includes/class-wp-statistics-ip.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25149,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the IP parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25148,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_id parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25004,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/manage_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25003,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/view_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-24232,"A local file inclusion in Hospital Patient Record Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0683,"The Essential Addons for Elementor Lite WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the settings parameter found in the ~/includes/Traits/Helper.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 5.0.8. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0653,"The Profile Builder – User Profile & User Registration Forms WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the site_url parameter found in the ~/assets/misc/fallback-page.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 3.6.1. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0651,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_type parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25096,"Home Owners Collection Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /members/view_member.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25094,"Home Owners Collection Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the parameter ""cover"" in SystemSettings.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-45977,"JetBrains IntelliJ IDEA 2021.3.1 Preview, IntelliJ IDEA 2021.3.1 RC, PyCharm Professional 2021.3.1 RC, GoLand 2021.3.1, PhpStorm 2021.3.1 Preview, PhpStorm 2021.3.1 RC, RubyMine 2021.3.1 Preview, RubyMine 2021.3.1 RC, CLion 2021.3.1, WebStorm 2021.3.1 Preview, and WebStorm 2021.3.1 RC (used as Remote Development backend IDEs) bind to the 0.0.0.0 IP address. The fixed versions are: IntelliJ IDEA 2021.3.1, PyCharm Professional 2021.3.1, GoLand 2021.3.2, PhpStorm 2021.3.1 (213.6461.83), RubyMine 2021.3.1, CLion 2021.3.2, and WebStorm 2021.3.1. Published:
+February 25, 2022; 10:15:09 AM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-23701,"A potential remote host header injection security vulnerability has been identified in HPE Integrated Lights-Out 4 (iLO 4) firmware version(s): Prior to 2.60. This vulnerability could be remotely exploited to allow an attacker to supply invalid input to the iLO 4 webserver, causing it to respond with a redirect to an attacker-controlled domain. HPE has provided a firmware update to resolve this vulnerability in HPE Integrated Lights-Out 4 (iLO 4). Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29220,"Multiple buffer overflow security vulnerabilities have been identified in HPE iLO Amplifier Pack version(s): Prior to 2.12. These vulnerabilities could be exploited by a highly privileged user to remotely execute code that could lead to a loss of confidentiality, integrity, and availability. HPE has provided a software update to resolve this vulnerability in HPE iLO Amplifier Pack. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29217,"A remote URL redirection vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29216,"A remote cross-site scripting vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44665,"A Directory Traversal vulnerability exists in the Xerte Project Xerte through 3.10.3 when downloading a project file via download.php. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44664,"An Authenticated Remote Code Exection (RCE) vulnerability exists in Xerte through 3.9 in website_code/php/import/fileupload.php by uploading a maliciously crafted PHP file though the project interface disguised as a language file to bypasses the upload filters. Attackers can manipulate the files destination by abusing path traversal in the 'mediapath' variable. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25307,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the platform parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25306,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the browser parameter found in the ~/includes/class-wp-statistics-visitor.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25305,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the IP parameter found in the ~/includes/class-wp-statistics-ip.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25149,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the IP parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25148,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_id parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25004,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/manage_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25003,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/view_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-24232,"A local file inclusion in Hospital Patient Record Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0683,"The Essential Addons for Elementor Lite WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the settings parameter found in the ~/includes/Traits/Helper.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 5.0.8. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0653,"The Profile Builder – User Profile & User Registration Forms WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the site_url parameter found in the ~/assets/misc/fallback-page.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 3.6.1. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0651,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_type parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25096,"Home Owners Collection Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /members/view_member.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25094,"Home Owners Collection Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the parameter ""cover"" in SystemSettings.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-45977,"JetBrains IntelliJ IDEA 2021.3.1 Preview, IntelliJ IDEA 2021.3.1 RC, PyCharm Professional 2021.3.1 RC, GoLand 2021.3.1, PhpStorm 2021.3.1 Preview, PhpStorm 2021.3.1 RC, RubyMine 2021.3.1 Preview, RubyMine 2021.3.1 RC, CLion 2021.3.1, WebStorm 2021.3.1 Preview, and WebStorm 2021.3.1 RC (used as Remote Development backend IDEs) bind to the 0.0.0.0 IP address. The fixed versions are: IntelliJ IDEA 2021.3.1, PyCharm Professional 2021.3.1, GoLand 2021.3.2, PhpStorm 2021.3.1 (213.6461.83), RubyMine 2021.3.1, CLion 2021.3.2, and WebStorm 2021.3.1. Published:
+February 25, 2022; 10:15:09 AM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-23701,"A potential remote host header injection security vulnerability has been identified in HPE Integrated Lights-Out 4 (iLO 4) firmware version(s): Prior to 2.60. This vulnerability could be remotely exploited to allow an attacker to supply invalid input to the iLO 4 webserver, causing it to respond with a redirect to an attacker-controlled domain. HPE has provided a firmware update to resolve this vulnerability in HPE Integrated Lights-Out 4 (iLO 4). Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29220,"Multiple buffer overflow security vulnerabilities have been identified in HPE iLO Amplifier Pack version(s): Prior to 2.12. These vulnerabilities could be exploited by a highly privileged user to remotely execute code that could lead to a loss of confidentiality, integrity, and availability. HPE has provided a software update to resolve this vulnerability in HPE iLO Amplifier Pack. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29217,"A remote URL redirection vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29216,"A remote cross-site scripting vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44665,"A Directory Traversal vulnerability exists in the Xerte Project Xerte through 3.10.3 when downloading a project file via download.php. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44664,"An Authenticated Remote Code Exection (RCE) vulnerability exists in Xerte through 3.9 in website_code/php/import/fileupload.php by uploading a maliciously crafted PHP file though the project interface disguised as a language file to bypasses the upload filters. Attackers can manipulate the files destination by abusing path traversal in the 'mediapath' variable. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25307,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the platform parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25306,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the browser parameter found in the ~/includes/class-wp-statistics-visitor.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25305,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the IP parameter found in the ~/includes/class-wp-statistics-ip.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25149,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the IP parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25148,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_id parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25004,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/manage_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25003,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/view_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-24232,"A local file inclusion in Hospital Patient Record Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0683,"The Essential Addons for Elementor Lite WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the settings parameter found in the ~/includes/Traits/Helper.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 5.0.8. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0653,"The Profile Builder – User Profile & User Registration Forms WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the site_url parameter found in the ~/assets/misc/fallback-page.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 3.6.1. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0651,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_type parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25096,"Home Owners Collection Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /members/view_member.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25094,"Home Owners Collection Management System v1.0 was discovered to contain a remote code execution (RCE) vulnerability via the parameter ""cover"" in SystemSettings.php. Published:
+February 25, 2022; 7:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-45977,"JetBrains IntelliJ IDEA 2021.3.1 Preview, IntelliJ IDEA 2021.3.1 RC, PyCharm Professional 2021.3.1 RC, GoLand 2021.3.1, PhpStorm 2021.3.1 Preview, PhpStorm 2021.3.1 RC, RubyMine 2021.3.1 Preview, RubyMine 2021.3.1 RC, CLion 2021.3.1, WebStorm 2021.3.1 Preview, and WebStorm 2021.3.1 RC (used as Remote Development backend IDEs) bind to the 0.0.0.0 IP address. The fixed versions are: IntelliJ IDEA 2021.3.1, PyCharm Professional 2021.3.1, GoLand 2021.3.2, PhpStorm 2021.3.1 (213.6461.83), RubyMine 2021.3.1, CLion 2021.3.2, and WebStorm 2021.3.1. Published:
+February 25, 2022; 10:15:09 AM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-23701,"A potential remote host header injection security vulnerability has been identified in HPE Integrated Lights-Out 4 (iLO 4) firmware version(s): Prior to 2.60. This vulnerability could be remotely exploited to allow an attacker to supply invalid input to the iLO 4 webserver, causing it to respond with a redirect to an attacker-controlled domain. HPE has provided a firmware update to resolve this vulnerability in HPE Integrated Lights-Out 4 (iLO 4). Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29220,"Multiple buffer overflow security vulnerabilities have been identified in HPE iLO Amplifier Pack version(s): Prior to 2.12. These vulnerabilities could be exploited by a highly privileged user to remotely execute code that could lead to a loss of confidentiality, integrity, and availability. HPE has provided a software update to resolve this vulnerability in HPE iLO Amplifier Pack. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29217,"A remote URL redirection vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-29216,"A remote cross-site scripting vulnerability was discovered in HPE OneView Global Dashboard version(s): Prior to 2.5. HPE has provided a software update to resolve this vulnerability in HPE OneView Global Dashboard. Published:
+February 24, 2022; 5:15:08 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44665,"A Directory Traversal vulnerability exists in the Xerte Project Xerte through 3.10.3 when downloading a project file via download.php. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2021-44664,"An Authenticated Remote Code Exection (RCE) vulnerability exists in Xerte through 3.9 in website_code/php/import/fileupload.php by uploading a maliciously crafted PHP file though the project interface disguised as a language file to bypasses the upload filters. Attackers can manipulate the files destination by abusing path traversal in the 'mediapath' variable. Published:
+February 24, 2022; 4:15:07 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25307,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the platform parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25306,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the browser parameter found in the ~/includes/class-wp-statistics-visitor.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25305,"The WP Statistics WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the IP parameter found in the ~/includes/class-wp-statistics-ip.php file which allows attackers to inject arbitrary web scripts onto several pages that execute when site administrators view a sites statistics, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25149,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the IP parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25148,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_id parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25004,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/manage_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-25003,"Hospital Patient Record Management System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter in /admin/doctors/view_doctor.php. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-24232,"A local file inclusion in Hospital Patient Record Management System v1.0 allows attackers to execute arbitrary code via a crafted PHP file. Published:
+February 24, 2022; 2:15:10 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0683,"The Essential Addons for Elementor Lite WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the settings parameter found in the ~/includes/Traits/Helper.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 5.0.8. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0653,"The Profile Builder – User Profile & User Registration Forms WordPress plugin is vulnerable to Cross-Site Scripting due to insufficient escaping and sanitization of the site_url parameter found in the ~/assets/misc/fallback-page.php file which allows attackers to inject arbitrary web scripts onto a pages that executes whenever a user clicks on a specially crafted link by an attacker. This affects versions up to and including 3.6.1. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"
+CVE-2022-0651,"The WP Statistics WordPress plugin is vulnerable to SQL Injection due to insufficient escaping and parameterization of the current_page_type parameter found in the ~/includes/class-wp-statistics-hits.php file which allows attackers without authentication to inject arbitrary SQL queries to obtain sensitive information, in versions up to and including 13.1.5. Published:
+February 24, 2022; 2:15:09 PM -0500","V3.x:(not available) 
+
+V2.0:(not available)"

@@ -1,0 +1,14 @@
+---connecting to the directory 
+-----cd C:\Program Files\MongoDB\Server\5.0\bin
+
+---Importing the file csv to database in MCD
+----mongoimport -d CVE -c HP --type csv --file hp.csv --headerline
+
+
+Commands to check for DB created and check for the data:
+
+--show dbs
+--use CVE(dastabase name)
+--show collections
+--db.HP.find()----HP in this commands refers to collection name 
+
