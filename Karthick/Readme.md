@@ -7,9 +7,10 @@ Hi! This is Karthick! Checkout below to see my progress!!
 
 **CVE data extraction using cve-search**\
 cve-search github: https://github.com/cve-search/cve-search \
-Date-updated -- 2022-02-27--will update a documentation to get the cve data to mongodb later!\
-* CVE-Search data from MongoDB using Pymongo.ipynb - connect to MongoDB using Pymongo and get the data and build a NLP model based on keywords
-* vendors-cves.csv - csv extracted from MongoDB using Pymongo
-* Capstone Project - Group 5 - Karthick.ipynb - Unsupervised model
+* cv-search documentation.md - Detailed documentation for installing MongoDB and then using cve-search to dump data to a mongodb database.
+* CVE-Search data from MongoDB using Pymongo.ipynb - connect to MongoDB cve database using Pymongo and get the data and build a NLP model based on keywords
+* vendors-cves.csv - csv extracted from MongoDB cve database data using Pymongo
+* Capstone Project - Group 5 - Karthick.ipynb - Unsupervised model (in progress)
+
 
 
