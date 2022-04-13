@@ -11,6 +11,7 @@ cve-search github: https://github.com/cve-search/cve-search <br>
 * CVE-Search data from MongoDB using Pymongo.ipynb - connect to MongoDB cve database using Pymongo and get the data and build a NLP model based on keywords
 * vendors-cves.csv - csv extracted from MongoDB cve database data using Pymongo
 * Capstone Project - Group 5 - Karthick.ipynb - Unsupervised model (in progress)
+* CVE categorization/Capstone Project - Group 5 - CVE categorization.ipynb - Supervised model to categorize cve to Platform (Hardware) or Non-Platform (Software)
 
 
 
